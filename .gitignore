@@ -1,0 +1,8 @@
+*~
+*.pyc
+
+*secret*
+
+__pycache__/
+.directory
+data/
